@@ -6,7 +6,7 @@ En este programa se implementa la figura de una cancha de futbol.
 
 ### OBJETIVOS
 
-Practicar el tema de position & floats.
+Practicar el tema de positioning & floats.
 
 ![recursos](assets/images/cancha.PNG)
 
